@@ -79,45 +79,6 @@ RESTful API untuk mengelola data informasi perusahaan dengan operasi CRUD lengka
     "success": true,
     "total": 3
 }
-```
-
----
-
-## 🗂️ Struktur Project
-
-PROJECT_PERUSAHAAN/
-├── backend/
-│ ├── config/
-│ │ └── database.php
-│ ├── informasi/
-│ │ ├── create.php
-│ │ ├── read.php
-│ │ ├── read_one.php
-│ │ ├── update.php
-│ │ └── delete.php
-│ ├── models/
-│ │ └── Informasi.php
-│ └── sql/
-│ └── database.sql
-├── frontend/
-│ ├── css/
-│ │ └── style.css
-│ ├── images/
-│ │ └── placeholder/
-│ ├── js/
-│ │ ├── auth.js
-│ │ ├── main.js
-│ │ └── navigation.js
-│ ├── dashboard.html
-│ ├── detail-informasi.html
-│ ├── index.html
-│ ├── informasi.html
-│ ├── login.html
-│ └── register.html
-├── screenshots/
-│ ├── frontend/
-│ └── postman/
-└── README.md
 
 ---
 
