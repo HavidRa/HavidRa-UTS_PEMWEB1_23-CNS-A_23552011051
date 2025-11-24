@@ -81,7 +81,10 @@ RESTful API untuk mengelola data informasi perusahaan dengan operasi CRUD lengka
 }
 ```
 
+---
+
 ## 🗂️ Struktur Project
+
 PROJECT_PERUSAHAAN/
 ├── backend/
 │ ├── config/
@@ -116,6 +119,7 @@ PROJECT_PERUSAHAAN/
 │ └── postman/
 └── README.md
 
+---
 
 ## ⚡ Cara Menjalankan
 
