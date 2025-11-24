@@ -79,6 +79,7 @@ RESTful API untuk mengelola data informasi perusahaan dengan operasi CRUD lengka
     "success": true,
     "total": 3
 }
+```
 
 ---
 
