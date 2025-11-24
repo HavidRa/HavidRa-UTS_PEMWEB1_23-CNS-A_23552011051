@@ -80,9 +80,6 @@ RESTful API untuk mengelola data informasi perusahaan dengan operasi CRUD lengka
     "total": 3
 }
 
-```markdown
-}
-
 ---
 
 ## 🗂️ Struktur Project
@@ -172,6 +169,3 @@ Password: password123
 **Kelas:** 23 CNS A
 
 **Copyright © 2024** - TechSolution Company Website & API
-```
-
-**README.md Anda sudah LENGKAP dan SIAP digunakan!** 🎉
