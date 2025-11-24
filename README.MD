@@ -117,8 +117,6 @@ PROJECT_PERUSAHAAN/
 │ └── postman/
 └── README.md
 
-text
-
 ---
 
 ## ⚡ Cara Menjalankan
@@ -139,8 +137,6 @@ text
 ### 4. Login Testing
 Email: admin@techsolution.com
 Password: password123
-
-text
 
 ---
 
