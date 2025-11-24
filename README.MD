@@ -79,3 +79,99 @@ RESTful API untuk mengelola data informasi perusahaan dengan operasi CRUD lengka
     "success": true,
     "total": 3
 }
+
+```markdown
+}
+
+---
+
+## 🗂️ Struktur Project
+
+```
+PROJECT_PERUSAHAAN/
+├── backend/
+│   ├── config/
+│   │   └── database.php
+│   ├── informasi/
+│   │   ├── create.php
+│   │   ├── read.php
+│   │   ├── read_one.php
+│   │   ├── update.php
+│   │   └── delete.php
+│   ├── models/
+│   │   └── Informasi.php
+│   └── sql/
+│       └── database.sql
+├── frontend/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   └── placeholder/
+│   ├── js/
+│   │   ├── auth.js
+│   │   ├── main.js
+│   │   └── navigation.js
+│   ├── dashboard.html
+│   ├── detail-informasi.html
+│   ├── index.html
+│   ├── informasi.html
+│   ├── login.html
+│   └── register.html
+├── screenshots/
+│   ├── frontend/
+│   └── postman/
+└── README.md
+```
+
+---
+
+## ⚡ Cara Menjalankan
+
+### 1. Setup Environment
+- Install XAMPP
+- Start Apache dan MySQL
+
+### 2. Setup Database
+- Buka phpMyAdmin (`http://localhost/phpmyadmin`)
+- Import file `backend/sql/database.sql`
+
+### 3. Jalankan Project
+- Letakkan folder `PROJECT_PERUSAHAAN` di `xampp/htdocs/`
+- Akses frontend: `http://localhost/PROJECT_PERUSAHAAN/frontend/`
+- Test API: Gunakan Postman dengan endpoints di atas
+
+### 4. Login Testing
+```
+Email: admin@techsolution.com
+Password: password123
+```
+
+---
+
+## 🧪 Testing
+
+### Frontend Testing
+- [x] Navigation semua halaman
+- [x] Form validation login/register
+- [x] Responsive design
+- [x] Redirect setelah login
+
+### API Testing
+- [x] CREATE - Tambah data baru
+- [x] READ ALL - Ambil semua data
+- [x] READ ONE - Ambil data by ID
+- [x] UPDATE - Edit data existing
+- [x] DELETE - Hapus data
+
+---
+
+## 👨💻 Developer
+
+**Nama:** Havid Restu Afyantara  
+**NPM:** 23552011051  
+**Kelas:** 23 CNS A
+
+**Copyright © 2024** - TechSolution Company Website & API
+```
+
+**README.md Anda sudah LENGKAP dan SIAP digunakan!** 🎉
